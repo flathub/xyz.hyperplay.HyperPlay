@@ -26,10 +26,13 @@
 	</project_license>
 	<description>
 		<p>
-			HyperPlay allows players to carry their MetaMask or WalletConnect wallet overlaid on top of every desktop game. Game developers can request transactions or signatures with a simple REST API call that supports every wallet to manage wallet interactions seamlessly.
+			A web3- compatible game launcher from the future. Carry your wallet, NFTs, tokens, and achievements into every game.
 		</p>
 		<p>
-			Main Features:
+			HyperPlay allows players to carry their MetaMask or WalletConnect wallet to native or browser based games. Games can request transactions or signatures with a simple REST API call that supports every wallet to manage wallet interactions seamlessly.
+		</p>
+		<p>
+			You can also access your Epic and GOG games and play them using Proton or Wine which can be downloaded directly from the interface. DXVK, VKD3D, and Winetricks are also included to play Windows Games.
 		</p>
 		<ul>
 			<li>
@@ -93,12 +96,18 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.0.5" date="2023-02-24">
+		<release version="v0.0.7" date="2023-03-02">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
+					<li>
+						Add HyperPlay Store and the ability to add games to the library
+					</li>
+					<li>
+						Add ability to install both Linux native and Windows games from the HyperPlay Store
+					</li>
 					<li>
 						Browser game compatibility
 					</li>
