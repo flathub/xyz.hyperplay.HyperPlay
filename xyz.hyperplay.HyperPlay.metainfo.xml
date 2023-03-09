@@ -96,7 +96,7 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.0.7" date="2023-03-02">
+		<release version="v0.0.9" date="2023-03-09">
 			<description>
 				<p>
 					General
@@ -118,6 +118,14 @@
 				<p>
 					BugFixes
 				</p>
+				<ul>
+					<li>
+						Fixes Epic Games Login
+					</li>
+					<li>
+						Fixes Disk Write speed not working
+					</li>
+				</ul>
 			</description>
 		</release>
 	</releases>
