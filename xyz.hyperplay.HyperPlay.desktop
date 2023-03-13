@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=HyperPlay
-Exec=hyperplay %u
+Exec=hyperplay-run %u
 Terminal=false
 Type=Application
 Icon=xyz.hyperplay.HyperPlay
