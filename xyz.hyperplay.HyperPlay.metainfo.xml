@@ -96,23 +96,23 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.0.9" date="2023-03-09">
+		<release version="v0.0.10" date="2023-03-18">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						Add HyperPlay Store and the ability to add games to the library
+						HyperPlay store game updates
 					</li>
 					<li>
-						Add ability to install both Linux native and Windows games from the HyperPlay Store
+						Protocol deeplink support for launching HyperPlay games
 					</li>
 					<li>
-						Browser game compatibility
+						Hiding and unhiding games from the store
 					</li>
 					<li>
-						Browser game overlay
+						Old provider methods for compatibility with Defi Kingdoms
 					</li>
 				</ul>
 				<p>
@@ -120,10 +120,10 @@
 				</p>
 				<ul>
 					<li>
-						Fixes Epic Games Login
+						Fixes Windows games not working with Proton
 					</li>
 					<li>
-						Fixes Disk Write speed not working
+						Anti cheat warning was showing erroneously for HyperPlay games
 					</li>
 				</ul>
 			</description>
