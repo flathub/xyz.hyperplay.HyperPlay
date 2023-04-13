@@ -96,23 +96,23 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.0.10" date="2023-03-18">
+		<release version="v0.1.0" date="2023-04-13">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						HyperPlay store game updates
+						Improved MetaMask extension UI/UX in client and overlay
 					</li>
 					<li>
-						Protocol deeplink support for launching HyperPlay games
+						MetaMask has been updated to the latest version
 					</li>
 					<li>
-						Hiding and unhiding games from the store
+						Show MetaMask extension in overlay on notification automatically
 					</li>
 					<li>
-						Old provider methods for compatibility with Defi Kingdoms
+						Show MetaMask extension in overlay on notification automatically
 					</li>
 				</ul>
 				<p>
@@ -120,10 +120,10 @@
 				</p>
 				<ul>
 					<li>
-						Fixes Windows games not working with Proton
+						Browser games that open new windows will now have the same MetaMask overlay
 					</li>
 					<li>
-						Anti cheat warning was showing erroneously for HyperPlay games
+						Import exe is now import folder to fix importing games with nested directories
 					</li>
 				</ul>
 			</description>
