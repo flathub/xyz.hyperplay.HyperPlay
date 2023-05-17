@@ -96,23 +96,23 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.1.0" date="2023-04-13">
+		<release version="v0.2.0" date="2023-05-17">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						Improved MetaMask extension UI/UX in client and overlay
+						Added support for Hardware wallets
 					</li>
 					<li>
-						MetaMask has been updated to the latest version
+						Improved download of HyperPlay games and added support for pausing the Queue
 					</li>
 					<li>
-						Show MetaMask extension in overlay on notification automatically
+						Hyperplay will automatically download a compatibility layer to play Windows games
 					</li>
 					<li>
-						Show MetaMask extension in overlay on notification automatically
+						Improved user feedback for MetaMask mobile and Wallet connect
 					</li>
 				</ul>
 				<p>
@@ -120,10 +120,13 @@
 				</p>
 				<ul>
 					<li>
-						Browser games that open new windows will now have the same MetaMask overlay
+						Image search on Add Game Screen
 					</li>
 					<li>
-						Import exe is now import folder to fix importing games with nested directories
+						Proper kill wine processes when hitting Stop Button
+					</li>
+					<li>
+						Several other fixes and improvements
 					</li>
 				</ul>
 			</description>
