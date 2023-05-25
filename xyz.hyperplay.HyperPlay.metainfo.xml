@@ -96,23 +96,17 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.2.0" date="2023-05-17">
+		<release version="v0.2.2" date="2023-05-25">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						Added support for Hardware wallets
+						Added support for HyperPlay store games hosted on Epic
 					</li>
 					<li>
-						Improved download of HyperPlay games and added support for pausing the Queue
-					</li>
-					<li>
-						Hyperplay will automatically download a compatibility layer to play Windows games
-					</li>
-					<li>
-						Improved user feedback for MetaMask mobile and Wallet connect
+						Improved download performance
 					</li>
 				</ul>
 				<p>
@@ -120,10 +114,10 @@
 				</p>
 				<ul>
 					<li>
-						Image search on Add Game Screen
+						Fixed installation issues with some games
 					</li>
 					<li>
-						Proper kill wine processes when hitting Stop Button
+						Fixed Operating System filter not working
 					</li>
 					<li>
 						Several other fixes and improvements
