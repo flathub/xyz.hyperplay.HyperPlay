@@ -96,34 +96,23 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.2.3" date="2023-05-26">
+		<release version="v0.3.0" date="2023-06-28">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						Improved MetaMask extension UI/UX in client and overlay
+						New ui!
 					</li>
 					<li>
-						MetaMask has been updated to the latest version
+						Add exit game button on browser game overlay
 					</li>
 					<li>
-						Show MetaMask extension in overlay on notification automatically
+						Add platform filters to library
 					</li>
 					<li>
-						Show MetaMask extension in overlay on notification automatically
-					</li>
-				</ul>
-				<p>
-					BugFixes
-				</p>
-				<ul>
-					<li>
-						Browser games that open new windows will now have the same MetaMask overlay
-					</li>
-					<li>
-						Import exe is now import folder to fix importing games with nested directories
+						Various other bug fixes and performance improvements
 					</li>
 				</ul>
 			</description>
