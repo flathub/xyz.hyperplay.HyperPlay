@@ -75,7 +75,7 @@
 				Onboarding
 			</caption>
 			<image>
-				https://user-images.githubusercontent.com/26871415/221288765-41a7981c-4112-4881-a88b-c2ed08929090.png
+				https://user-images.githubusercontent.com/27568879/249639428-00bd0934-bdbd-49e0-af42-a6e32d652ca9.png
 			</image>
 		</screenshot>
 		<screenshot>
@@ -83,7 +83,15 @@
 				Wallet Overlay
 			</caption>
 			<image>
-				https://user-images.githubusercontent.com/26871415/221288900-aa7c3168-d610-4598-8011-7f6c4dc4148f.png
+				https://user-images.githubusercontent.com/27568879/249639424-602f6b89-9c43-4798-aeb6-0692e0807d4a.png
+			</image>
+		</screenshot>
+		<screenshot>
+			<caption>
+				Store Page
+			</caption>
+			<image>
+				https://user-images.githubusercontent.com/27568879/249639513-83878965-21a5-4c0a-9c59-ecde17cabce5.png
 			</image>
 		</screenshot>
 		<screenshot>
@@ -91,39 +99,28 @@
 				Library
 			</caption>
 			<image>
-				https://user-images.githubusercontent.com/26871415/221288973-eb897dec-34fe-4edf-8c3d-32836ca59a04.png
+				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
 			</image>
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.2.3" date="2023-05-26">
+		<release version="v0.3.0" date="2023-06-28">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						Improved MetaMask extension UI/UX in client and overlay
+						New ui!
 					</li>
 					<li>
-						MetaMask has been updated to the latest version
+						Add exit game button on browser game overlay
 					</li>
 					<li>
-						Show MetaMask extension in overlay on notification automatically
+						Add platform filters to library
 					</li>
 					<li>
-						Show MetaMask extension in overlay on notification automatically
-					</li>
-				</ul>
-				<p>
-					BugFixes
-				</p>
-				<ul>
-					<li>
-						Browser games that open new windows will now have the same MetaMask overlay
-					</li>
-					<li>
-						Import exe is now import folder to fix importing games with nested directories
+						Various other bug fixes and performance improvements
 					</li>
 				</ul>
 			</description>
