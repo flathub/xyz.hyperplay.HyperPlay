@@ -104,20 +104,20 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.3.0" date="2023-06-28">
+		<release version="v0.4.0" date="2023-07-12">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						New ui!
+						Native game overlay is now cross platform!
 					</li>
 					<li>
-						Add exit game button on browser game overlay
+						MetaMask can now be imported from any chromium based browser profile
 					</li>
 					<li>
-						Add platform filters to library
+						Toggle fullscreen in browser games with F11
 					</li>
 					<li>
 						Various other bug fixes and performance improvements
