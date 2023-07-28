@@ -104,20 +104,17 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.4.0" date="2023-07-12">
+		<release version="v0.4.1" date="2023-07-28">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						Native game overlay is now cross platform!
+						Fix F11 fullscreen hotkey toggle for browser games
 					</li>
 					<li>
-						MetaMask can now be imported from any chromium based browser profile
-					</li>
-					<li>
-						Toggle fullscreen in browser games with F11
+						Fix native overlay for linux
 					</li>
 					<li>
 						Various other bug fixes and performance improvements
