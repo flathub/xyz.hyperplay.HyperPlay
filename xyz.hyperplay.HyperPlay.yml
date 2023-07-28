@@ -171,7 +171,7 @@ modules:
 
       - type: file
         url: https://github.com/HyperPlay-Gaming/hyperplay-desktop-client/releases/download/v0.4.1/hyperplay-0.4.1.tar.xz
-        sha512: d6bcd36c01a32767a73c08082dc56cdb8a3c872f398989a60698426f0cf5286cfffeaade5b68b0986f8baec91bbc2671919d0280d390cdd1e0c2c9ca7feb1d1c
+        sha512: 0fd2008380f507fb433c9e717480098cbbba5e834329bb939c7e9156631f276e5d2b46cecbfafb73e8e759cd17c6c968eaa83c31ce3f275711055cc70ba42fe2
 
   - name: platform-bootstrap
     buildsystem: simple
