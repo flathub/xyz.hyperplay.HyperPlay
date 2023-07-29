@@ -1,126 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<component type="desktop-application">
-	<id>
+<?xml version="1.0" encoding="UTF-8"?><component type="desktop-application"><id>
 		xyz.hyperplay.HyperPlay
-	</id>
-	<name>
+	</id><name>
 		HyperPlay
-	</name>
-	<summary>
+	</name><summary>
 		Web3 game launcher from the future. Carry your wallet, NFTs, tokens, and achievements into every game.
-	</summary>
-	<url type="homepage">
+	</summary><url type="homepage">
 		https://hyperplay.xyz
-	</url>
-	<url type="bugtracker">
+	</url><url type="bugtracker">
 		https://github.com/HyperPlay-Gaming/hyperplay-desktop-client/issues
-	</url>
-	<url type="vcs-browser">
+	</url><url type="vcs-browser">
 		https://github.com/HyperPlay-Gaming/hyperplay-desktop-client
-	</url>
-	<metadata_license>
+	</url><metadata_license>
 		CC0-1.0
-	</metadata_license>
-	<project_license>
+	</metadata_license><project_license>
 		GPL-3.0
-	</project_license>
-	<description>
-		<p>
+	</project_license><description><p>
 			A web3- compatible game launcher from the future. Carry your wallet, NFTs, tokens, and achievements into every game.
-		</p>
-		<p>
+		</p><p>
 			HyperPlay allows players to carry their MetaMask or WalletConnect wallet to native or browser based games. Games can request transactions or signatures with a simple REST API call that supports every wallet to manage wallet interactions seamlessly.
-		</p>
-		<p>
+		</p><p>
 			You can also access your Epic and GOG games and play them using Proton or Wine which can be downloaded directly from the interface. DXVK, VKD3D, and Winetricks are also included to play Windows Games.
-		</p>
-		<ul>
-			<li>
+		</p><ul><li>
 				Seamless wallet integration with MetaMask, WalletConnect, and more
-			</li>
-			<li>
+			</li><li>
 				Play Web3 native or browser games and make transactions without leaving the game
-			</li>
-			<li>
+			</li><li>
 				Have access to your MetaMask Portfolio from the app interface
-			</li>
-			<li>
+			</li><li>
 				Access Epic and GOG games as well
-			</li>
-		</ul>
-	</description>
-	<content_rating type="oars-1.1">
-		<content_attribute id="violence-cartoon">
+			</li></ul></description><content_rating type="oars-1.1"><content_attribute id="violence-cartoon">
 			moderate
-		</content_attribute>
-		<content_attribute id="violence-fantasy">
+		</content_attribute><content_attribute id="violence-fantasy">
 			moderate
-		</content_attribute>
-		<content_attribute id="violence-realistic">
+		</content_attribute><content_attribute id="violence-realistic">
 			moderate
-		</content_attribute>
-		<content_attribute id="violence-bloodshed">
+		</content_attribute><content_attribute id="violence-bloodshed">
 			moderate
-		</content_attribute>
-		<content_attribute id="money-purchasing">
+		</content_attribute><content_attribute id="money-purchasing">
 			intense
-		</content_attribute>
-	</content_rating>
-	<launchable type="desktop-id">
+		</content_attribute></content_rating><launchable type="desktop-id">
 		xyz.hyperplay.HyperPlay.desktop
-	</launchable>
-	<screenshots>
-		<screenshot type="default">
-			<caption>
+	</launchable><screenshots><screenshot type="default"><caption>
 				Onboarding
-			</caption>
-			<image>
+			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639428-00bd0934-bdbd-49e0-af42-a6e32d652ca9.png
-			</image>
-		</screenshot>
-		<screenshot>
-			<caption>
+			</image></screenshot><screenshot><caption>
 				Wallet Overlay
-			</caption>
-			<image>
+			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639424-602f6b89-9c43-4798-aeb6-0692e0807d4a.png
-			</image>
-		</screenshot>
-		<screenshot>
-			<caption>
+			</image></screenshot><screenshot><caption>
 				Store Page
-			</caption>
-			<image>
+			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639513-83878965-21a5-4c0a-9c59-ecde17cabce5.png
-			</image>
-		</screenshot>
-		<screenshot>
-			<caption>
+			</image></screenshot><screenshot><caption>
 				Library
-			</caption>
-			<image>
+			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image>
-		</screenshot>
-	</screenshots>
-	<releases>
-		<release version="v0.4.1" date="2023-07-28">
-			<description>
-				<p>
+			</image></screenshot></screenshots><releases><release version="v0.1001.3" date="2023-07-29"><description><p>
 					General
-				</p>
-				<ul>
-					<li>
-						Fix F11 fullscreen hotkey toggle for browser games
-					</li>
-					<li>
-						Fix native overlay for linux
-					</li>
-					<li>
-						Various other bug fixes and performance improvements
-					</li>
-				</ul>
-			</description>
-		</release>
-	</releases>
-</component>
+				</p><ul><li> Fix F11 fullscreen hotkey toggle for browser games</li><li> Fix native overlay for linux</li><li> Other various performance improvements and bug fixes</li></ul></description></release></releases></component>
