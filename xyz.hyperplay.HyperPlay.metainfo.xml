@@ -56,6 +56,6 @@
 				Library
 			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image></screenshot></screenshots><releases><release version="v0.5.0" date="2023-08-17"><description><p>
+			</image></screenshot></screenshots><releases><release version="v0.6.0" date="2023-09-01"><description><p>
 					General
-				</p><ul><li> Access codes for exclusive game releases</li><li> Alpha/Beta channels for early access to games</li><li> Wallet Connect v2 and MetaMask Mobile fixes</li><li> Epic DLC manager</li><li> Other fixes and performance improvements</li></ul></description></release></releases></component>
+				</p><ul><li> MetaMask can now be imported without closing your browser</li><li> Library UI improvements</li><li> Other fixes and performance improvements</li></ul></description></release></releases></component>
