@@ -56,6 +56,6 @@
 				Library
 			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image></screenshot></screenshots><releases><release version="v0.6.0" date="2023-09-01"><description><p>
+			</image></screenshot></screenshots><releases><release version="v0.7.0" date="2023-09-26"><description><p>
 					General
-				</p><ul><li> MetaMask can now be imported without closing your browser</li><li> Library UI improvements</li><li> Other fixes and performance improvements</li></ul></description></release></releases></component>
+				</p><ul><li> MetaMask snaps can now be added to your MetaMask extension wallet in HyperPlay</li><li> Fixes an issue where certain browser games could not connect to the HyperPlay wallet</li><li> Proxy server fixes to return values</li><li> Support for Apple's Gaming Porting Toolkit</li><li> Other fixes and performance improvements</li></ul></description></release></releases></component>
