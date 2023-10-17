@@ -56,6 +56,6 @@
 				Library
 			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image></screenshot></screenshots><releases><release version="v0.7.1" date="2023-10-05"><description><p>
+			</image></screenshot></screenshots><releases><release version="v0.8.0" date="2023-10-17"><description><p>
 					General
-				</p><ul><li> Updates electron to fix a white screen issue for a subset of Linux users</li><li> Fixes a Windows game download issue</li><li> Update MetaMask to 11.1.0</li><li> Fixes an issue where some Linux users had an incorrect app icon</li><li> Improved MetaMask Snaps UX</li><li> Fixes a bug where wine/crossover settings were showing for Windows users</li></ul></description></release></releases></component>
+				</p><ul><li> Amazon game store is now aggregated </li><li> Added access code validation on the install modal</li><li> Fixes a download bug experienced by a subset of Windows users</li><li> Improved Portuguese and Spanish translations</li><li> Various other bug fixes and performance improvements</li></ul></description></release></releases></component>
