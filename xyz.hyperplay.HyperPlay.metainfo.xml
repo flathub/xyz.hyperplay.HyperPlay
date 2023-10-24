@@ -56,10 +56,6 @@
 				Library
 			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image></screenshot></screenshots><releases><release version="v0.8.0" date="2023-10-17"><description><p>
+			</image></screenshot></screenshots><releases><release version="v0.8.1" date="2023-10-24"><description><p>
 					General
-				</p><ul><li> Amazon game store is now aggregated 
-</li><li> Added access code validation on the install modal
-</li><li> Improved Portuguese and Spanish translations
-</li><li> Various other bug fixes and performance improvements
-</li></ul></description></release></releases></component>
+				</p><ul><li> Various bug fixes and performance improvements</li></ul></description></release></releases></component>
