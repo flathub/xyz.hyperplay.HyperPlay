@@ -56,6 +56,6 @@
 				Library
 			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image></screenshot></screenshots><releases><release version="v0.8.1" date="2023-10-24"><description><p>
+			</image></screenshot></screenshots><releases><release version="v0.9.0" date="2023-11-18"><description><p>
 					General
-				</p><ul><li> Various bug fixes and performance improvements</li></ul></description></release></releases></component>
+				</p><ul><li> Sideloaded browser game fixes</li><li> Improved overlay UX</li><li> Game updating UX improvements</li><li> Fix social links on store page</li><li> Added support for installing and enabling DXVK-NVAPI</li><li> Fixed issues with missing games metadata for GOG</li><li> Other bug fixes and performance improvements</li></ul></description></release></releases></component>
