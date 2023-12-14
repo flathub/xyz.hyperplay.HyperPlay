@@ -56,6 +56,6 @@
 				Library
 			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image></screenshot></screenshots><releases><release version="v0.9.0" date="2023-11-18"><description><p>
+			</image></screenshot></screenshots><releases><release version="v0.10.0" date="2023-12-13"><description><p>
 					General
-				</p><ul><li> Sideloaded browser game fixes</li><li> Improved overlay UX</li><li> Game updating UX improvements</li><li> Fix social links on store page</li><li> Added support for installing and enabling DXVK-NVAPI</li><li> Fixed issues with missing games metadata for GOG</li><li> Other bug fixes and performance improvements</li></ul></description></release></releases></component>
+				</p><ul><li> Added support for HyperPlay accounts and zkSync quest</li><li> Updated MetaMask and Electron</li><li> Fixed issues with WalletConnect requests</li><li> Updated translations</li><li> Fixed an issue with restoring the scrolling position on the library</li><li> Fixed incorrect site warning on signature requests</li><li> Improved download toast and added extraction feedback</li></ul></description></release></releases></component>
