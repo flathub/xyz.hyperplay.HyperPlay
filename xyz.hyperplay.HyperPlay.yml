@@ -23,7 +23,7 @@ finish-args:
   - --filesystem=~/.local/share/lutris:rw
   - --filesystem=~/.config/heroic:rw
   - --filesystem=~/.local/share/applications:rw
-  - --filesystem=~/.steam:rw
+  - --filesystem=~/.local/share/Steam:rw
   - --filesystem=~/Games/HyperPlay:create
   - --filesystem=~/.var/app/com.valvesoftware.Steam:rw
   - --filesystem=xdg-documents
