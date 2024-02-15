@@ -56,6 +56,6 @@
 				Library
 			</caption><image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image></screenshot></screenshots><releases><release version="v0.10.0" date="2023-12-13"><description><p>
+			</image></screenshot></screenshots><releases><release version="v0.11.0" date="2024-02-15"><description><p>
 					General
-				</p><ul><li> Added support for HyperPlay accounts and zkSync quest</li><li> Updated MetaMask and Electron</li><li> Fixed issues with WalletConnect requests</li><li> Updated translations</li><li> Fixed an issue with restoring the scrolling position on the library</li><li> Fixed incorrect site warning on signature requests</li><li> Improved download toast and added extraction feedback</li></ul></description></release></releases></component>
+				</p><ul><li> macOS: Added support for Whisky.</li><li> macOS: Implemented automatic downloading of GPTK from Wine Manager on new Hyperplay installations.</li><li> Linux: Introduced a single-window Overlay.</li><li> Windows: Added a check for write access in folders.</li><li> FIX: Added a check for game updates on startup.</li><li> FIX: Cloud Saves for HP and Sideloaded Games are no longer displayed.</li><li> FIX: Improved the Uninstall Status display for HP Games.</li><li> FIX: Enhanced the import process for HP Games.</li><li> FIX: Redistributables for HP Games are now installed correctly.</li><li> Offline improvements.</li><li> Updated translations.</li><li> Added support for OAuth providers.</li><li> Added support for specifying gas price parameters for contract interactions.</li></ul></description></release></releases></component>
