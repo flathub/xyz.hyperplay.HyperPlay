@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2024 HyperPlay Labs Inc -->
 <component type="desktop-application">
-	<id>
-		xyz.hyperplay.HyperPlay
-	</id>
-	<name>
-		HyperPlay
-	</name>
+	<id>xyz.hyperplay.HyperPlay</id>
+	<name>HyperPlay</name>
 	<developer_name>HyperPlay Labs Inc</developer_name>
-	<summary>
-		Web3 game launcher from the future. Carry your wallet, NFTs, tokens, and achievements into every game.
-	</summary>
+	<summary>Games Launcher with Web3 features</summary>
 	<url type="homepage">
 		https://hyperplay.xyz
 	</url>
@@ -19,12 +14,8 @@
 	<url type="vcs-browser">
 		https://github.com/HyperPlay-Gaming/hyperplay-desktop-client
 	</url>
-	<metadata_license>
-		CC0-1.0
-	</metadata_license>
-	<project_license>
-		GPL-3.0
-	</project_license>
+	<metadata_license>CC0-1.0</metadata_license>
+	<project_license>GPL-3.0-only</project_license>
 	<description>
 		<p>
 			A web3- compatible game launcher from the future. Carry your wallet, NFTs, tokens, and achievements into every game.
@@ -73,7 +64,7 @@
 	<screenshots>
 		<screenshot type="default">
 			<caption>
-				Onboarding
+				Onboarding Dialog
 			</caption>
 			<image>
 				https://user-images.githubusercontent.com/27568879/249639428-00bd0934-bdbd-49e0-af42-a6e32d652ca9.png
@@ -97,7 +88,7 @@
 		</screenshot>
 		<screenshot>
 			<caption>
-				Library
+				Library Page
 			</caption>
 			<image>
 				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
