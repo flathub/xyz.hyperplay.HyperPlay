@@ -1,9 +1,9 @@
 id: xyz.hyperplay.HyperPlay
 sdk: org.freedesktop.Sdk
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: "23.08"
 base: org.electronjs.Electron2.BaseApp
-base-version: '23.08'
+base-version: "23.08"
 command: hyperplay-run
 separate-locales: false
 
@@ -48,16 +48,16 @@ finish-args:
 add-extensions:
   org.freedesktop.Platform.Compat.i386:
     directory: lib/i386-linux-gnu
-    version: '23.08'
+    version: "23.08"
 
   org.freedesktop.Platform.Compat.i386.Debug:
     directory: lib/debug/lib/i386-linux-gnu
-    version: '23.08'
+    version: "23.08"
     no-autodownload: true
 
   org.freedesktop.Platform.GL32:
     directory: lib/i386-linux-gnu/GL
-    version: '1.4'
+    version: "1.4"
     versions: 23.08;1.4
     subdirectories: true
     no-autodownload: true
@@ -78,8 +78,8 @@ add-extensions:
 
   org.freedesktop.Platform.VAAPI.Intel.i386:
     directory: lib/i386-linux-gnu/dri/intel-vaapi-driver
-    version: '23.08'
-    versions: '23.08'
+    version: "23.08"
+    versions: "23.08"
     autodelete: false
     no-autodownload: true
     add-ld-path: lib
@@ -118,7 +118,7 @@ modules:
     sources: &gamemode_sources
       - type: git
         url: https://github.com/FeralInteractive/gamemode.git
-        tag: '1.7'
+        tag: "1.7"
         commit: 4dc99dff76218718763a6b07fc1900fa6d1dafd9
         x-checker-data:
           type: git
@@ -176,8 +176,8 @@ modules:
           - zypak-wrapper /app/bin/hyperplay/hyperplay "$@"
 
       - type: file
-        url: https://github.com/HyperPlay-Gaming/hyperplay-desktop-client/releases/download/v0.11.0/hyperplay-0.11.0.tar.xz
-        sha512: 376c518ef27b1a733cb838f55ce8c4187fe035e8f1514f7405c8b8b39e0c0dbf51f13516091502f2cda4d91116678e65fec41e9ae4eb4a19a757d62f7191428d
+        url: https://github.com/HyperPlay-Gaming/hyperplay-desktop-client/releases/download/v0.11.1/hyperplay-0.11.1.tar.xz
+        sha512: 629173c18916f7fcfb22ced7c699fcdcc769ab2fe9a9a5029ec09d6d5543316f52d69ffe64ebc3d81bdcf678faddbfa867d57255d323c51d8fb56986354cc987
 
   - name: platform-bootstrap
     buildsystem: simple
@@ -207,8 +207,7 @@ modules:
       - type: file
         path: xyz.hyperplay.HyperPlay.desktop
 
-
-   #START --- Winetricks Deps ---
+    #START --- Winetricks Deps ---
   - name: p7zip
     no-autogen: true
     build-options:
@@ -250,7 +249,7 @@ modules:
             url: https://github.com/yasm/yasm/archive/v1.3.0.tar.gz
             sha256: f708be0b7b8c59bc1dbe7134153cd2f31faeebaa8eec48676c10f972a1f13df3
         cleanup:
-          - '*'
+          - "*"
 
   - name: cabextract
     build-options:
