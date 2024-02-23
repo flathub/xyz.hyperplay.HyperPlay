@@ -115,16 +115,16 @@
 						FIX: Improved the Uninstall Status display for HP Games.
 					</li>
 					<li>
-						FIX: Enhanced the import process for HP Games.
+						Fixed some browser profiles not displaying as import options
 					</li>
 					<li>
-						FIX: Redistributables for HP Games are now installed correctly.
+						Fixed Trezor - MetaMask extension integration
 					</li>
 					<li>
-						Offline improvements.
+						Fixed download space required calculation
 					</li>
 					<li>
-						Updated translations.
+						Updated MetaMask Mobile SDK
 					</li>
 				</ul>
 			</description>
