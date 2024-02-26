@@ -96,14 +96,14 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="v0.11.2" date="2024-02-22">
+		<release version="v0.11.3" date="2024-02-26">
 			<description>
 				<p>
 					General
 				</p>
 				<ul>
 					<li>
-						Linux: Introduced a single-window Overlay.
+						Added a reset MetaMask Extension button in settings
 					</li>
 					<li>
 						FIX: Added a check for game updates on startup.
