@@ -1,133 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2024 HyperPlay Labs Inc -->
 <component type="desktop-application">
-	<id>xyz.hyperplay.HyperPlay</id>
-	<name>HyperPlay</name>
-	<developer_name>HyperPlay Labs Inc</developer_name>
-	<summary>Games Launcher with Web3 features</summary>
-	<url type="homepage">
-		https://hyperplay.xyz
-	</url>
-	<url type="bugtracker">
-		https://github.com/HyperPlay-Gaming/hyperplay-desktop-client/issues
-	</url>
-	<url type="vcs-browser">
-		https://github.com/HyperPlay-Gaming/hyperplay-desktop-client
-	</url>
-	<metadata_license>CC0-1.0</metadata_license>
-	<project_license>GPL-3.0-only</project_license>
-	<description>
-		<p>
-			A web3- compatible game launcher from the future. Carry your wallet, NFTs, tokens, and achievements into every game.
-		</p>
-		<p>
-			HyperPlay allows players to carry their MetaMask or WalletConnect wallet to native or browser based games. Games can request transactions or signatures with a simple REST API call that supports every wallet to manage wallet interactions seamlessly.
-		</p>
-		<p>
-			You can also access your Epic and GOG games and play them using Proton or Wine which can be downloaded directly from the interface. DXVK, VKD3D, and Winetricks are also included to play Windows Games.
-		</p>
-		<ul>
-			<li>
-				Seamless wallet integration with MetaMask, WalletConnect, and more
-			</li>
-			<li>
-				Play Web3 native or browser games and make transactions without leaving the game
-			</li>
-			<li>
-				Have access to your MetaMask Portfolio from the app interface
-			</li>
-			<li>
-				Access Epic and GOG games as well
-			</li>
-		</ul>
-	</description>
-	<content_rating type="oars-1.1">
-		<content_attribute id="violence-cartoon">
-			moderate
-		</content_attribute>
-		<content_attribute id="violence-fantasy">
-			moderate
-		</content_attribute>
-		<content_attribute id="violence-realistic">
-			moderate
-		</content_attribute>
-		<content_attribute id="violence-bloodshed">
-			moderate
-		</content_attribute>
-		<content_attribute id="money-purchasing">
-			intense
-		</content_attribute>
-	</content_rating>
-	<launchable type="desktop-id">
-		xyz.hyperplay.HyperPlay.desktop
-	</launchable>
-	<screenshots>
-		<screenshot type="default">
-			<caption>
-				Onboarding Dialog
-			</caption>
-			<image>
-				https://user-images.githubusercontent.com/27568879/249639428-00bd0934-bdbd-49e0-af42-a6e32d652ca9.png
-			</image>
-		</screenshot>
-		<screenshot>
-			<caption>
-				Wallet Overlay
-			</caption>
-			<image>
-				https://user-images.githubusercontent.com/27568879/249639424-602f6b89-9c43-4798-aeb6-0692e0807d4a.png
-			</image>
-		</screenshot>
-		<screenshot>
-			<caption>
-				Store Page
-			</caption>
-			<image>
-				https://user-images.githubusercontent.com/27568879/249639513-83878965-21a5-4c0a-9c59-ecde17cabce5.png
-			</image>
-		</screenshot>
-		<screenshot>
-			<caption>
-				Library Page
-			</caption>
-			<image>
-				https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png
-			</image>
-		</screenshot>
-	</screenshots>
-	<releases>
-		<release version="v0.11.3" date="2024-02-26">
-			<description>
-				<p>
-					General
-				</p>
-				<ul>
-					<li>
-						Added a reset MetaMask Extension button in settings
-					</li>
-					<li>
-						FIX: Added a check for game updates on startup.
-					</li>
-					<li>
-						FIX: Cloud Saves for HP and Sideloaded Games are no longer displayed.
-					</li>
-					<li>
-						FIX: Improved the Uninstall Status display for HP Games.
-					</li>
-					<li>
-						Fixed some browser profiles not displaying as import options
-					</li>
-					<li>
-						Fixed Trezor - MetaMask extension integration
-					</li>
-					<li>
-						Fixed download space required calculation
-					</li>
-					<li>
-						Updated MetaMask Mobile SDK
-					</li>
-				</ul>
-			</description>
-		</release>
-	</releases>
+  <id>xyz.hyperplay.HyperPlay</id>
+  <name>HyperPlay</name>
+  <developer_name>HyperPlay Labs Inc</developer_name>
+  <summary>Games Launcher with Web3 features</summary>
+  <url type="homepage">https://hyperplay.xyz</url>
+  <url type="bugtracker">https://github.com/HyperPlay-Gaming/hyperplay-desktop-client/issues</url>
+  <url type="vcs-browser">https://github.com/HyperPlay-Gaming/hyperplay-desktop-client</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <description>
+    <p>A web3- compatible game launcher from the future. Carry your wallet, NFTs, tokens, and achievements into every game.</p>
+    <p>HyperPlay allows players to carry their MetaMask or WalletConnect wallet to native or browser based games. Games can request transactions or signatures with a simple REST API call that supports every wallet to manage wallet interactions seamlessly.</p>
+    <p>You can also access your Epic and GOG games and play them using Proton or Wine which can be downloaded directly from the interface. DXVK, VKD3D, and Winetricks are also included to play Windows Games.</p>
+    <ul>
+      <li>Seamless wallet integration with MetaMask, WalletConnect, and more</li>
+      <li>Play Web3 native or browser games and make transactions without leaving the game</li>
+      <li>Have access to your MetaMask Portfolio from the app interface</li>
+      <li>Access Epic and GOG games as well</li>
+    </ul>
+  </description>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">moderate</content_attribute>
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+    <content_attribute id="violence-realistic">moderate</content_attribute>
+    <content_attribute id="violence-bloodshed">moderate</content_attribute>
+    <content_attribute id="money-purchasing">intense</content_attribute>
+  </content_rating>
+  <launchable type="desktop-id">xyz.hyperplay.HyperPlay.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Onboarding Dialog</caption>
+      <image>https://user-images.githubusercontent.com/27568879/249639428-00bd0934-bdbd-49e0-af42-a6e32d652ca9.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Wallet Overlay</caption>
+      <image>https://user-images.githubusercontent.com/27568879/249639424-602f6b89-9c43-4798-aeb6-0692e0807d4a.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Store Page</caption>
+      <image>https://user-images.githubusercontent.com/27568879/249639513-83878965-21a5-4c0a-9c59-ecde17cabce5.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Library Page</caption>
+      <image>https://user-images.githubusercontent.com/27568879/249639438-870b2329-d01a-4e19-8a18-560f302aaa38.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="v0.12.0" date="2024-02-28">
+      <description>
+        <p>General</p>
+        <ul>
+          <li>Added option to sign up for HyperPlay email updates</li>
+          <li>Improved compatibility layer setup for Mac</li>
+          <li>Added HyperPlay auto launch setting</li>
+          <li>Added game update notifications</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
 </component>
