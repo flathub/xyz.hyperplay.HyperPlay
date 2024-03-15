@@ -47,15 +47,10 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.12.0" date="2024-02-28">
+    <release version="v0.12.1" date="2024-03-15">
       <description>
         <p>General</p>
-        <ul>
-          <li>Added option to sign up for HyperPlay email updates</li>
-          <li>Improved compatibility layer setup for Mac</li>
-          <li>Added HyperPlay auto launch setting</li>
-          <li>Added game update notifications</li>
-        </ul>
+        <ul></ul>
       </description>
     </release>
   </releases>
