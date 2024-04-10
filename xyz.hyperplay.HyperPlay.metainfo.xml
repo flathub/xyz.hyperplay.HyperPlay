@@ -47,13 +47,16 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.12.1" date="2024-03-15">
+    <release version="v0.13.0" date="2024-04-10">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix GPTK auto setup on macOS</li>
-          <li>Fix Installing Wine on Windows</li>
-          <li>Fix Games not auto-updating even if the auto-update games setting is on.</li>
+          <li>Improved GPTK UX</li>
+          <li>Improved log screen</li>
+          <li>Improved on-boarding UX</li>
+          <li>Add MSync to improve performance when using the compatibility layer for CPU intensive games</li>
+          <li>Add support for one time use codes</li>
+          <li>Various bug fixes and performance improvements</li>
         </ul>
       </description>
     </release>
