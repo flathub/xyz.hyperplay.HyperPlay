@@ -49,17 +49,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.13.1" date="2024-04-23">
+    <release version="v0.14.0" date="2024-05-16">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix search bar item click</li>
-          <li>Improved onboarding UI/UX</li>
-          <li>Add back and forward arrows to browser game window</li>
-          <li>Improved library page UX</li>
-          <li>Show store links on all pages</li>
-          <li>Improved Translations</li>
-          <li>Miscellaneous performance improvements and bug fixes</li>
+          <li>Add token gated downloads</li>
+          <li>Add support for exe launch arguments</li>
+          <li>Update MetaMask to v11.15.0</li>
+          <li>Keep app data on uninstall</li>
+          <li>Various other bug fixes and performance improvements</li>
         </ul>
       </description>
     </release>
