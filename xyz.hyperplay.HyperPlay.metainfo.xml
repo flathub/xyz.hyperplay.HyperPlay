@@ -49,15 +49,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.14.0" date="2024-05-16">
+    <release version="v0.14.1" date="2024-05-20">
       <description>
         <p>General</p>
         <ul>
-          <li>Add token gated downloads</li>
-          <li>Add support for exe launch arguments</li>
-          <li>Update MetaMask to v11.15.0</li>
-          <li>Keep app data on uninstall</li>
-          <li>Various other bug fixes and performance improvements</li>
+          <li>Fix macOS native game launch</li>
+          <li>Fix MetaMask extension in the browser game overlay</li>
         </ul>
       </description>
     </release>
