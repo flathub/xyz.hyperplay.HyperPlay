@@ -49,15 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.14.1" date="2024-05-20">
+    <release version="v0.14.2" date="2024-05-24">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix MetaMask extension in the browser game overlay</li>
-          <li>Add token gated downloads</li>
-          <li>Add support for exe launch arguments</li>
-          <li>Update MetaMask to v11.15.0</li>
-          <li>Various other bug fixes and performance improvements</li>
+          <li>Various bug fixes and performance improvements</li>
         </ul>
       </description>
     </release>
