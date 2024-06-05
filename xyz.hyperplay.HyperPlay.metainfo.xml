@@ -49,12 +49,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.14.3" date="2024-05-24">
+    <release version="v0.14.4" date="2024-06-05">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix Epic login</li>
-          <li>Fix send contract endpoint when MetaMask Extension is connected</li>
+          <li>Improved download manager UI</li>
+          <li>Fix external links in MetaMask Extension</li>
+          <li>Fix wallet recovery page link in onboarding modal</li>
+          <li>Clicking play game in the HyperPlay store now redirects to the library game page</li>
+          <li>Various other bug fixes and UX improvements</li>
         </ul>
       </description>
     </release>
