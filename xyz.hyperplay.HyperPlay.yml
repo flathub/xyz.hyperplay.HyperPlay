@@ -184,8 +184,8 @@ modules:
           - zypak-wrapper /app/bin/hyperplay/hyperplay "$@"
 
       - type: file
-        url: https://github.com/HyperPlay-Gaming/hyperplay-desktop-client/releases/download/v0.14.4/hyperplay-0.14.4.tar.xz
-        sha512: a6ec6e5bc556a43da919396f907827be185fd3900f2b7d9536121bfc9d69afcd1c863d61f9abae96f7af72af603f30bf3be480dd181c33aa18ab100b79a1d4eb
+        url: https://github.com/HyperPlay-Gaming/hyperplay-desktop-client/releases/download/v0.15.1/hyperplay-0.15.1.tar.xz
+        sha512: 4fbe58b80cc084ada54a9bf056e5c337cbae865296f6ac13226d2ce3a4631da608b3192542659e879cb0333ab723a6c6893ced138724459686becd1e37554bf6
 
   - name: platform-bootstrap
     buildsystem: simple
