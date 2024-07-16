@@ -49,12 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.15.3" date="2024-07-14">
+    <release version="v0.16.0" date="2024-07-16">
       <description>
         <p>General</p>
         <ul>
-          <li>Improved feature flags</li>
-          <li>Various bug fixes and performance improvements</li>
+          <li>Add quest warning if not logged in</li>
         </ul>
       </description>
     </release>
