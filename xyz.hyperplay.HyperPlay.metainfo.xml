@@ -49,11 +49,14 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.16.0" date="2024-07-16">
+    <release version="v0.16.1" date="2024-07-20">
       <description>
         <p>General</p>
         <ul>
-          <li>Add quest warning if not logged in</li>
+          <li>Add daily play session progress indicator</li>
+          <li>Add user id to logs</li>
+          <li>Remove play button from quest details component</li>
+          <li>Fix an issue where channels no longer on a game listing would cause the library to endlessly refresh</li>
         </ul>
       </description>
     </release>
