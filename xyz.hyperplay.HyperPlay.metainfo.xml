@@ -49,14 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.16.1" date="2024-07-20">
+    <release version="v0.16.2" date="2024-07-24">
       <description>
         <p>General</p>
         <ul>
-          <li>Add daily play session progress indicator</li>
-          <li>Add user id to logs</li>
-          <li>Remove play button from quest details component</li>
-          <li>Fix an issue where channels no longer on a game listing would cause the library to endlessly refresh</li>
+          <li>Fix play streak days showing as 0 if streak &gt;= required days for an ended quest over 1 day old</li>
         </ul>
       </description>
     </release>
