@@ -49,11 +49,14 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.16.2" date="2024-07-24">
+    <release version="v0.17.0" date="2024-07-30">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix play streak days showing as 0 if streak &gt;= required days for an ended quest over 1 day old</li>
+          <li>Improved translations</li>
+          <li>Check for HyperPlay updates every hour</li>
+          <li>Add points and G7 credits points balances to UI</li>
+          <li>Various bug fixes and performance improvements</li>
         </ul>
       </description>
     </release>
