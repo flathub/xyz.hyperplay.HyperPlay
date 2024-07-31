@@ -49,13 +49,14 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.17.0" date="2024-07-30">
+    <release version="v0.17.1" date="2024-07-31">
       <description>
         <p>General</p>
         <ul>
-          <li>Improved translations</li>
-          <li>Check for HyperPlay updates every hour</li>
-          <li>Add points and G7 credits points balances to UI</li>
+          <li>Fix quest title on quest card</li>
+          <li>Fix play streak tracking and overlay for HyperPlay games listed on Epic</li>
+          <li>Fix view game button on quest page when a game has not been added to library</li>
+          <li>Fix long reward title overflow</li>
           <li>Various bug fixes and performance improvements</li>
         </ul>
       </description>
