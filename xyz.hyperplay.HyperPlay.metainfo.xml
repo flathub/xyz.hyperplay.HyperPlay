@@ -49,14 +49,16 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.17.1" date="2024-07-31">
+    <release version="v0.17.2" date="2024-08-01">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix quest title on quest card</li>
-          <li>Fix play streak tracking and overlay for HyperPlay games listed on Epic</li>
-          <li>Fix view game button on quest page when a game has not been added to library</li>
-          <li>Fix long reward title overflow</li>
+          <li>Fix reward amount display for NFT and ERC 1155 rewards</li>
+          <li>Fix Epic games on Hyperplay play session tracking</li>
+          <li>Add navigate api for quest CTA&apos;s on store page</li>
+          <li>Fix close game for games that launch multiple processes</li>
+          <li>Add a warning on app close if a game is running</li>
+          <li>Fix Unfettered cross platform launch command on Mac and Linux</li>
           <li>Various bug fixes and performance improvements</li>
         </ul>
       </description>
