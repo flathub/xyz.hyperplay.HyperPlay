@@ -49,19 +49,19 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.17.3" date="2024-08-01">
+    <release version="v0.17.4" date="2024-08-08">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix games not launching on macOS and Linux</li>
-          <li>Fix Wallet onboard not showing when launching games from GamePage</li>
-          <li>Fix reward amount display for NFT and ERC 1155 rewards (0.17.2)</li>
-          <li>Fix Epic games on Hyperplay play session tracking (0.17.2)</li>
-          <li>Add navigate api for quest CTA&apos;s on store page (0.17.2)</li>
-          <li>Fix close game for games that launch multiple processes (0.17.2)</li>
-          <li>Add a warning on app close if a game is running (0.17.2)</li>
-          <li>Fix Unfettered cross platform launch command on Mac and Linux (0.17.2)</li>
-          <li>Various bug fixes and performance improvements (0.17.2)</li>
+          <li>Sync quest play session every minute</li>
+          <li>Add search bar to quests page</li>
+          <li>Add Game7 Credits announcement modal</li>
+          <li>Improved translations for quests</li>
+          <li>Fix MetaMask extension not showing in the overlay after swapping from another wallet</li>
+          <li>Fix view game button on the quests page for Epic forwarder listings</li>
+          <li>Fix AUR publishing</li>
+          <li>Fix no quests found message modal on the quests page</li>
+          <li>Various bug fixes and performance improvements</li>
         </ul>
       </description>
     </release>
