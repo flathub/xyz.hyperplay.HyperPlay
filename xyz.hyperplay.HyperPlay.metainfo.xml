@@ -49,18 +49,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.17.4" date="2024-08-08">
+    <release version="v0.17.5" date="2024-08-13">
       <description>
         <p>General</p>
         <ul>
-          <li>Sync quest play session every minute</li>
-          <li>Add search bar to quests page</li>
-          <li>Add Game7 Credits announcement modal</li>
-          <li>Improved translations for quests</li>
-          <li>Fix MetaMask extension not showing in the overlay after swapping from another wallet</li>
-          <li>Fix view game button on the quests page for Epic forwarder listings</li>
-          <li>Fix AUR publishing</li>
-          <li>Fix no quests found message modal on the quests page</li>
+          <li>Fix overlay for HyperPlay games listed on Epic</li>
+          <li>Fix Epic and GOG game manual updates</li>
           <li>Various bug fixes and performance improvements</li>
         </ul>
       </description>
