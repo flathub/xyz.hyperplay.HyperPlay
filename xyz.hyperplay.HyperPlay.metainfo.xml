@@ -49,13 +49,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.17.5" date="2024-08-13">
+    <release version="v0.18.0" date="2024-08-16">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix overlay for HyperPlay games listed on Epic</li>
-          <li>Fix Epic and GOG game manual updates</li>
-          <li>Various bug fixes and performance improvements</li>
+          <li>Add number of claims left per reward to quest UI</li>
+          <li>Confirm on chain reward claim after claiming</li>
         </ul>
       </description>
     </release>
