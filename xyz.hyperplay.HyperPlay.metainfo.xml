@@ -49,12 +49,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.18.0" date="2024-08-16">
+    <release version="v0.18.1" date="2024-08-22">
       <description>
         <p>General</p>
         <ul>
-          <li>Add number of claims left per reward to quest UI</li>
-          <li>Confirm on chain reward claim after claiming</li>
+          <li>Quest on chain reward claiming UX improvements</li>
+          <li>Improved quest translations</li>
         </ul>
       </description>
     </release>
