@@ -49,12 +49,17 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.18.1" date="2024-08-22">
+    <release version="v0.18.2" date="2024-09-10">
       <description>
         <p>General</p>
         <ul>
-          <li>Quest on chain reward claiming UX improvements</li>
-          <li>Improved quest translations</li>
+          <li>Auto update improvements</li>
+          <li>Fix game page for webgl releases</li>
+          <li>Improve logs</li>
+          <li>Fix hide, unhide, favorite, and unfavorite on app relaunch and library refresh</li>
+          <li>Fix game is available check</li>
+          <li>Fix repeat external task claims showing sync instead of claim after finishing quest</li>
+          <li>Improved translations</li>
         </ul>
       </description>
     </release>
