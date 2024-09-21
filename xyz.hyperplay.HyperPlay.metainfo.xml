@@ -49,18 +49,13 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.19.0" date="2024-09-17">
+    <release version="v0.19.1" date="2024-09-20">
       <description>
         <p>General</p>
         <ul>
-          <li>Add button to import folder with several HyperPlay games in it</li>
-          <li>Added Mod Support to a selected list of games</li>
-          <li>Added One-click Windows Steam installation using the compatibility layer on macOS</li>
-          <li>Improve default Compatibility Layer setup on macOS and Linux</li>
-          <li>Download Toast should be Draggable now</li>
-          <li>Use quests UI in quest details</li>
-          <li>Fix showing update game for games with removed platform build</li>
-          <li>Translations update</li>
+          <li>Fix translation keys in on chain reward confirmation modal</li>
+          <li>Add Game7 account check with error text to Game7 credits reward claim flow</li>
+          <li>Improved reward claim translations</li>
         </ul>
       </description>
     </release>
