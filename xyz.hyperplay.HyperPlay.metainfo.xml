@@ -49,14 +49,10 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.19.1" date="2024-09-20">
+    <release version="v0.19.2" date="2024-09-25">
       <description>
         <p>General</p>
-        <ul>
-          <li>Fix translation keys in on chain reward confirmation modal</li>
-          <li>Add Game7 account check with error text to Game7 credits reward claim flow</li>
-          <li>Improved reward claim translations</li>
-        </ul>
+        <ul></ul>
       </description>
     </release>
   </releases>
