@@ -49,10 +49,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.19.4" date="2024-09-26">
+    <release version="v0.20.0" date="2024-10-08">
       <description>
         <p>General</p>
-        <ul></ul>
+        <ul>
+          <li>Wine improvements for non-HyperPlay games</li>
+          <li>Fix download manager progress bar ETA</li>
+          <li>Add Game7 webview to quests page</li>
+          <li>Various bug fixes and user experience improvements</li>
+        </ul>
       </description>
     </release>
   </releases>
