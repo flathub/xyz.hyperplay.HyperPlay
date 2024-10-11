@@ -49,14 +49,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.20.0" date="2024-10-08">
+    <release version="v0.20.1" date="2024-10-11">
       <description>
         <p>General</p>
         <ul>
-          <li>Wine improvements for non-HyperPlay games</li>
-          <li>Fix download manager progress bar ETA</li>
-          <li>Add Game7 webview to quests page</li>
-          <li>Various bug fixes and user experience improvements</li>
+          <li>Fix HyperPlay overlay for Blocklords</li>
+          <li>Add support for external game quests</li>
         </ul>
       </description>
     </release>
