@@ -49,12 +49,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.20.1" date="2024-10-11">
+    <release version="v0.20.2" date="2024-10-12">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix HyperPlay overlay for Blocklords</li>
-          <li>Add support for external game quests</li>
+          <li>[FIX] Download Manager Toast Information</li>
+          <li>[Fix] Sync playsession for non-hp runners</li>
         </ul>
       </description>
     </release>
