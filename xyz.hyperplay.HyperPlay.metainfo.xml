@@ -49,15 +49,13 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.21.0" date="2024-10-22">
+    <release version="v0.21.1" date="2024-10-29">
       <description>
         <p>General</p>
         <ul>
-          <li>Add MetaMask Portfolio page to the overlay</li>
-          <li>Add Xociety play streak external sync button</li>
-          <li>Fix gradient border on selected quest card</li>
-          <li>Improve store update modal interactions</li>
-          <li>Improved translations for quests</li>
+          <li>Fix Market Wars download links</li>
+          <li>Fix available quest rewards counter</li>
+          <li>Various improvements and bug fixes</li>
         </ul>
       </description>
     </release>
