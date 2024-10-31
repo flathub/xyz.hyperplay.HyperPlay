@@ -49,12 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.21.1" date="2024-10-29">
+    <release version="v0.21.2" date="2024-10-31">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix Market Wars download links</li>
-          <li>Fix available quest rewards counter</li>
+          <li>Remove Game7 Credits modal</li>
           <li>Various improvements and bug fixes</li>
         </ul>
       </description>
