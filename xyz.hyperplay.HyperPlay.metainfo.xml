@@ -10,7 +10,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-only</project_license>
   <description>
-    <p>HyperPlay is a Game store and launcher that has almost a hundred of games available to play for free while it also supports games from the Epic and GOG store.</p>
+    <p>HyperPlay is a Game store and launcher with more than a hundred of games available to play for free while it also supports games from the Epic and GOG store.</p>
     <p>HyperPlay is also the biggest platform for Web3 games and includes native support for MetaMask and WalletConnect so you can use your coins and store your assets or NFTs on the game without the need of leaving it no matter if it is native or browser based games.</p>
     <p>In this aspect, HyperPlay doesn&apos;t access your wallet or assets, it just provides the interface through an Overlay to interact with the games and the blockchain on basically any network.</p>
     <p>Play most of your Windows games using Proton or Wine. HyperPlay setups the compatibility layer automatically on first setup but you can also install more versions from the Wine Manager in the app Settings. DXVK, VKD3D, and Winetricks support is also included.</p>
