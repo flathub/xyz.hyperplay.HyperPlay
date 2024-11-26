@@ -49,20 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.22.0" date="2024-11-16">
+    <release version="v0.22.1" date="2024-11-26">
       <description>
         <p>General</p>
         <ul>
-          <li>Add Marketplaces to Overlay</li>
-          <li>Improve Games update with Patching support</li>
-          <li>Add portfolio sub-links to overlay</li>
-          <li>Add completed quests tab</li>
-          <li>Cleanup App and Game Settings</li>
-          <li>Disable portfolio in overlay for incompatible wallet providers</li>
-          <li>Fix Extract Progress for Base Game For Market Wars</li>
-          <li>Fix play-streak quests not in sync</li>
-          <li>Fix Actions and texts on the Download Manager screen</li>
-          <li>Several other Improvements and fixes</li>
+          <li>Fix game closed status when not logged in</li>
         </ul>
       </description>
     </release>
