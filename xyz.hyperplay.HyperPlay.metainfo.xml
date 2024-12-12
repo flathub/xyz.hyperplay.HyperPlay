@@ -49,19 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.22.2" date="2024-12-11">
+    <release version="v0.22.3" date="2024-12-12">
       <description>
         <p>General</p>
         <ul>
-          <li>Update MetaMask to 12.7.2</li>
-          <li>Fix compatibility modal blocking MetaMask popup interactions</li>
-          <li>Update welcome modals</li>
-          <li>Add auto-select of first quest in quest tab</li>
-          <li>Fix Steam setup on macOS</li>
-          <li>Update game settings modal</li>
-          <li>Fix launching of sideloaded games with absolute file path</li>
-          <li>Add login requirement to access code usage</li>
-          <li>Fix MetaMask Portfolio buy buttons in the main window</li>
+          <li>Patching system improvements</li>
         </ul>
       </description>
     </release>
