@@ -49,11 +49,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.22.3" date="2024-12-12">
+    <release version="v0.22.4" date="2024-12-19">
       <description>
         <p>General</p>
         <ul>
-          <li>Patching system improvements</li>
+          <li>Fix updating of token gated games</li>
+          <li>Fix installing token gated games with a connected wallet other than MetaMask Extension</li>
+          <li>Fix an issue where some users could not claim certain rewards</li>
+          <li>Fix an issue causing the MetaMask popup to load indefinitely</li>
+          <li>Hide quests that cannot be completed or claimed by users</li>
         </ul>
       </description>
     </release>
