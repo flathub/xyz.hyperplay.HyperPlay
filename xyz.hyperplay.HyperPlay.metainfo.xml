@@ -49,15 +49,14 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.22.4" date="2024-12-19">
+    <release version="v0.22.5" date="2025-01-09">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix updating of token gated games</li>
-          <li>Fix installing token gated games with a connected wallet other than MetaMask Extension</li>
-          <li>Fix an issue where some users could not claim certain rewards</li>
-          <li>Fix an issue causing the MetaMask popup to load indefinitely</li>
-          <li>Hide quests that cannot be completed or claimed by users</li>
+          <li>Replaced Twitter icon with X icon</li>
+          <li>Fix Update mm to 12.9.3 to</li>
+          <li>Fix ledger support,</li>
+          <li>Fix errors related to stuck loading state</li>
         </ul>
       </description>
     </release>
