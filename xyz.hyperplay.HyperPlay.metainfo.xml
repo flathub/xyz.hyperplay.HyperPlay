@@ -49,14 +49,17 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.22.5" date="2025-01-09">
+    <release version="v0.22.6" date="2025-01-22">
       <description>
         <p>General</p>
         <ul>
-          <li>Replaced Twitter icon with X icon</li>
-          <li>Fix Update mm to 12.9.3 to</li>
-          <li>Fix ledger support,</li>
-          <li>Fix errors related to stuck loading state</li>
+          <li>Removed access code input from mod dialog for mod channels with no access code gating</li>
+          <li>Patching improvements and fixes</li>
+          <li>Improved local image caching</li>
+          <li>Fixed issue where MetaMask notification would sometimes not show in the overlay</li>
+          <li>Fixed quest page search bar sizing</li>
+          <li>Updated sidebar &quot;Wiki&quot; link text to &quot;Docs&quot;</li>
+          <li>Improved translations</li>
         </ul>
       </description>
     </release>
