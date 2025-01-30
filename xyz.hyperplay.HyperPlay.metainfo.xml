@@ -49,17 +49,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.22.6" date="2025-01-22">
+    <release version="v0.23.0" date="2025-01-30">
       <description>
         <p>General</p>
         <ul>
-          <li>Removed access code input from mod dialog for mod channels with no access code gating</li>
-          <li>Patching improvements and fixes</li>
-          <li>Improved local image caching</li>
-          <li>Fixed issue where MetaMask notification would sometimes not show in the overlay</li>
-          <li>Fixed quest page search bar sizing</li>
-          <li>Updated sidebar &quot;Wiki&quot; link text to &quot;Docs&quot;</li>
-          <li>Improved translations</li>
+          <li>Fix MetaMask UI initialization errors after an update</li>
+          <li>Various improvements and bug fixes</li>
         </ul>
       </description>
     </release>
