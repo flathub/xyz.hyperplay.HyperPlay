@@ -49,12 +49,13 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.23.0" date="2025-01-30">
+    <release version="v0.23.1" date="2025-02-18">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix MetaMask UI initialization errors after an update</li>
-          <li>Various improvements and bug fixes</li>
+          <li>Fix quest on-chain reward claiming with MetaMask Mobile or WalletConnect</li>
+          <li>Fix launching of HyperPlay games that use Easy Anti-Cheat</li>
+          <li>Fix launching of sideloaded games in offline mode</li>
         </ul>
       </description>
     </release>
