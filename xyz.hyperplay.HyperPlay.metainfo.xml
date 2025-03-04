@@ -49,13 +49,21 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.23.1" date="2025-02-18">
+    <release version="v0.23.2" date="2025-03-04">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix quest on-chain reward claiming with MetaMask Mobile or WalletConnect</li>
-          <li>Fix launching of HyperPlay games that use Easy Anti-Cheat</li>
-          <li>Fix launching of sideloaded games in offline mode</li>
+          <li>Fixed an issue where &quot;Rat Race Combat&quot; wouldn&apos;t launch due to an extra space in the Wine prefix folder name</li>
+          <li>Enhanced quest search functionality to support multi-keyword searches</li>
+          <li>Improved compatibility layer initialization for Mac and Linux, making Proton-GE the default on Linux</li>
+          <li>Fixed overlay performance issues caused by the hidden MetaMask popup view, reducing glitches and improving responsiveness</li>
+          <li>Fixed an issue with the large Mac icon on macOS</li>
+          <li>Fixed streak progress tracking so it remains constant when not playing</li>
+          <li>Changed quest sorting to display newest quests first by start date</li>
+          <li>Fixed Windows taskbar title to correctly display &quot;HyperPlay&quot; instead of a description</li>
+          <li>Improved and fixed auto-update functionality on Windows and macOS, including better error handling and update retries</li>
+          <li>Improved tooltips for store icons in the Library when hovering over them</li>
+          <li>Improved error logging for reward claims</li>
         </ul>
       </description>
     </release>
