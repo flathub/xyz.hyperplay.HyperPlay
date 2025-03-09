@@ -49,21 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.23.2" date="2025-03-04">
+    <release version="v0.23.3" date="2025-03-09">
       <description>
         <p>General</p>
         <ul>
-          <li>Fixed an issue where &quot;Rat Race Combat&quot; wouldn&apos;t launch due to an extra space in the Wine prefix folder name</li>
-          <li>Enhanced quest search functionality to support multi-keyword searches</li>
-          <li>Improved compatibility layer initialization for Mac and Linux, making Proton-GE the default on Linux</li>
-          <li>Fixed overlay performance issues caused by the hidden MetaMask popup view, reducing glitches and improving responsiveness</li>
-          <li>Fixed an issue with the large Mac icon on macOS</li>
-          <li>Fixed streak progress tracking so it remains constant when not playing</li>
-          <li>Changed quest sorting to display newest quests first by start date</li>
-          <li>Fixed Windows taskbar title to correctly display &quot;HyperPlay&quot; instead of a description</li>
-          <li>Improved and fixed auto-update functionality on Windows and macOS, including better error handling and update retries</li>
-          <li>Improved tooltips for store icons in the Library when hovering over them</li>
-          <li>Improved error logging for reward claims</li>
+          <li>Fix app config folder path for Linux builds</li>
         </ul>
       </description>
     </release>
