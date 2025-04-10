@@ -53,11 +53,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.23.3" date="2025-03-09">
+    <release version="v0.24.0" date="2025-04-10">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix app config folder path for Linux builds</li>
+          <li>Improved quest page searching</li>
+          <li>Fixes and improvements to game patching</li>
+          <li>Update MetaMask logo</li>
+          <li>Fix store access while game is extracting</li>
+          <li>Add feature flagged wallet-based quest tracking</li>
         </ul>
       </description>
     </release>
