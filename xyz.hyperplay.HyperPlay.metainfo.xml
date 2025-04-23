@@ -53,15 +53,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.24.0" date="2025-04-10">
+    <release version="v0.25.0" date="2025-04-23">
       <description>
         <p>General</p>
         <ul>
-          <li>Improved quest page searching</li>
-          <li>Fixes and improvements to game patching</li>
-          <li>Update MetaMask logo</li>
-          <li>Fix store access while game is extracting</li>
-          <li>Add feature flagged wallet-based quest tracking</li>
+          <li>Add support for leaderboard quests</li>
+          <li>Add alert for third-party launchers</li>
+          <li>Update WalletConnect option on onboarding modal to show some compatible wallets</li>
+          <li>Fix download size on download toast</li>
+          <li>Change swap wallet text</li>
         </ul>
       </description>
     </release>
