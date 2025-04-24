@@ -53,15 +53,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.25.0" date="2025-04-23">
+    <release version="v0.25.1" date="2025-04-23">
       <description>
         <p>General</p>
         <ul>
-          <li>Add support for leaderboard quests</li>
-          <li>Add alert for third-party launchers</li>
-          <li>Update WalletConnect option on onboarding modal to show some compatible wallets</li>
-          <li>Fix download size on download toast</li>
-          <li>Change swap wallet text</li>
+          <li>Fix auto-update for new players</li>
         </ul>
       </description>
     </release>
