@@ -53,11 +53,16 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.25.1" date="2025-04-23">
+    <release version="v0.26.0" date="2025-05-01">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix auto-update for new players</li>
+          <li>Update MetaMask to v12.16.1</li>
+          <li>Update MetaMask Mobile SDK and fix connection</li>
+          <li>Fix quest page search param redirect</li>
+          <li>Fix overlay overflow on small resolutions or high scales</li>
+          <li>Remove auto-update error dialog</li>
+          <li>Fix bytes32 array param handling in proxy server</li>
         </ul>
       </description>
     </release>
