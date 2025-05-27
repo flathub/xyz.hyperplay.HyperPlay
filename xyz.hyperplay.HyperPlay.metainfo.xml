@@ -53,12 +53,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.26.1" date="2025-05-14">
+    <release version="v0.27.0" date="2025-05-27">
       <description>
         <p>General</p>
         <ul>
           <li>Various improvements and bug fixes for quest reward claiming</li>
-          <li>Update button styles</li>
         </ul>
       </description>
     </release>
