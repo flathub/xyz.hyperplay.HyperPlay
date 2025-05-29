@@ -53,10 +53,13 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.27.0" date="2025-05-27">
+    <release version="v0.28.1" date="2025-05-29">
       <description>
         <p>General</p>
         <ul>
+          <li>Remove confirm reward claim modal</li>
+          <li>Add watch asset call after ERC20 reward claim</li>
+          <li>Add instructions to get gas on low gas warning modal</li>
           <li>Various improvements and bug fixes for quest reward claiming</li>
         </ul>
       </description>
