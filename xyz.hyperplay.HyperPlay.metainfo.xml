@@ -53,14 +53,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.28.1" date="2025-05-29">
+    <release version="v0.28.2" date="2025-06-01">
       <description>
         <p>General</p>
         <ul>
-          <li>Remove confirm reward claim modal</li>
-          <li>Add watch asset call after ERC20 reward claim</li>
-          <li>Add instructions to get gas on low gas warning modal</li>
-          <li>Various improvements and bug fixes for quest reward claiming</li>
+          <li>Add quest reward claim support for OKX, Trust Wallet, and Bybit wallet</li>
+          <li>Add set active wallet support for Ronin Wallet</li>
         </ul>
       </description>
     </release>
