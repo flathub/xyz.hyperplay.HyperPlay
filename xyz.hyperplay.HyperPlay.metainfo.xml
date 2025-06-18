@@ -53,12 +53,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.28.2" date="2025-06-01">
+    <release version="v0.29.0" date="2025-06-17">
       <description>
         <p>General</p>
         <ul>
-          <li>Add quest reward claim support for OKX, Trust Wallet, and Bybit wallet</li>
-          <li>Add set active wallet support for Ronin Wallet</li>
+          <li>Revamped the Settings page UI</li>
+          <li>Show &quot;Connect&quot; instead of reward claim CTA when wallet is not connected</li>
+          <li>Fixed UI for sideload error alerts</li>
+          <li>Added alert for existing signature errors for quest reward claim</li>
+          <li>Miscellaneous improvements and bug fixes</li>
         </ul>
       </description>
     </release>
