@@ -53,14 +53,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.29.0" date="2025-06-17">
+    <release version="v0.30.0" date="2025-07-10">
       <description>
         <p>General</p>
         <ul>
-          <li>Revamped the Settings page UI</li>
-          <li>Show &quot;Connect&quot; instead of reward claim CTA when wallet is not connected</li>
-          <li>Fixed UI for sideload error alerts</li>
-          <li>Added alert for existing signature errors for quest reward claim</li>
+          <li>Fix MetaMask extension import on Linux</li>
+          <li>Update download toast UI styling</li>
+          <li>Add support integration</li>
+          <li>Add NPS form after quest reward claim</li>
+          <li>Fix game card image fallback for Epic &amp; GOG games</li>
           <li>Miscellaneous improvements and bug fixes</li>
         </ul>
       </description>
