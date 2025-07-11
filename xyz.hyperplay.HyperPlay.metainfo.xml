@@ -53,16 +53,11 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.30.0" date="2025-07-10">
+    <release version="v0.30.1" date="2025-07-11">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix MetaMask extension import on Linux</li>
-          <li>Update download toast UI styling</li>
-          <li>Add support integration</li>
-          <li>Add NPS form after quest reward claim</li>
-          <li>Fix game card image fallback for Epic &amp; GOG games</li>
-          <li>Miscellaneous improvements and bug fixes</li>
+          <li>Fix fonts</li>
         </ul>
       </description>
     </release>
