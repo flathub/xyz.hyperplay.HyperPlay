@@ -53,11 +53,12 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="v0.30.1" date="2025-07-11">
+    <release version="v0.30.2" date="2025-07-15">
       <description>
         <p>General</p>
         <ul>
-          <li>Fix fonts</li>
+          <li>Fix active leaderboard quest visibility on quests page when logged in</li>
+          <li>Remove support icon from overlay</li>
         </ul>
       </description>
     </release>
